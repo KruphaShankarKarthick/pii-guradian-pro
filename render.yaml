@@ -11,4 +11,4 @@ services:
       - key: PYTHONUNBUFFERED
         value: "1"
       - key: SECRET_KEY
-        sync: false   # you must set this manually in the Render Dashboard
+        sync: false   # set manually in Render Dashboard
